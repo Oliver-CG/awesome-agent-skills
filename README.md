@@ -74,7 +74,8 @@ The most contributed Agent Skills repository, built and maintained together with
 | [Skills by Figma](#skills-by-figma) | [Marketing Skills by Corey Haines](#marketing-skills-by-corey-haines) | [Skills by Binance](#skills-by-binance) |
 | [Product Manager Skills by Dean Peters](#product-manager-skills-by-dean-peters) | [Product Management Skills by Paweł Huryn](#product-management-skills-by-pawel-huryn) | [Skills by MiniMax](#skills-by-minimax-team) |
 | [Skills by DuckDB](#skills-by-duckdb) | [Skills by GSAP](#skills-by-gsap-greensock) | [Skills by Garry Tan (gstack)](#skills-by-garry-tan-gstack) |
-| [Skills by Notion](#skills-by-notion) | [Community Skills](#community-skills) | [Skill Quality Standards](#skill-quality-standards) |
+| [Skills by Notion](#skills-by-notion) | [Skills by Wondelai](#skills-by-wondelai) | [Community Skills](#community-skills) |
+| [Skill Quality Standards](#skill-quality-standards) | | |
 
 
 
@@ -942,6 +943,31 @@ Official skills from Notion's repositories — workspace-aware skills for captur
 - **[makenotion/meeting-intelligence](https://officialskills.sh/makenotion/skills/meeting-intelligence)** - Prepare meeting materials by gathering Notion context and creating pre-reads and agendas
 - **[makenotion/research-documentation](https://officialskills.sh/makenotion/skills/research-documentation)** - Search Notion workspace, synthesize findings, and create comprehensive research reports
 - **[makenotion/spec-to-implementation](https://officialskills.sh/makenotion/skills/spec-to-implementation)** - Turn product/tech specs into concrete Notion tasks with acceptance criteria and progress tracking
+
+</details>
+
+<details>
+<summary><h3 style="display:inline">Skills by Wondelai</h3></summary>
+
+Business strategy, marketing, and engineering skills from [wondelai/skills](https://github.com/wondelai/skills) — 25+ skills organized into product strategy, marketing/CRO, sales, UX, and engineering collections.
+
+**Product Strategy & Go-to-Market:**
+
+- **[wondelai/obviously-awesome](https://github.com/wondelai/skills/tree/main/skills/obviously-awesome)** - Product positioning using April Dunford's methodology
+- **[wondelai/crossing-the-chasm](https://github.com/wondelai/skills/tree/main/skills/crossing-the-chasm)** - Navigate technology adoption from early adopters to mainstream
+- **[wondelai/hundred-million-offers](https://github.com/wondelai/skills/tree/main/skills/hundred-million-offers)** - Create irresistible offers using Hormozi's Value Equation
+- **[wondelai/blue-ocean-strategy](https://github.com/wondelai/skills/tree/main/skills/blue-ocean-strategy)** - Find uncontested market space with value innovation
+
+**Marketing & Conversion:**
+
+- **[wondelai/cro-methodology](https://github.com/wondelai/skills/tree/main/skills/cro-methodology)** - Conversion rate optimization with funnel analysis and A/B testing
+- **[wondelai/storybrand-messaging](https://github.com/wondelai/skills/tree/main/skills/storybrand-messaging)** - Brand messaging using StoryBrand narrative framework
+- **[wondelai/influence-psychology](https://github.com/wondelai/skills/tree/main/skills/influence-psychology)** - Apply Cialdini's six principles of ethical persuasion
+
+**Engineering:**
+
+- **[wondelai/clean-code](https://github.com/wondelai/skills/tree/main/skills/clean-code)** - Write readable, maintainable code with Uncle Bob principles
+- **[wondelai/refactoring-ui](https://github.com/wondelai/skills/tree/main/skills/refactoring-ui)** - Fix visual hierarchy, spacing, and color in web UIs
 
 </details>
 
