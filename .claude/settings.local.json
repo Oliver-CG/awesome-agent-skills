@@ -4,7 +4,9 @@
       "WebFetch(domain:raw.githubusercontent.com)",
       "Bash(python3 scripts/download-skills.py microsoft)",
       "Bash(curl -s \"https://api.github.com/repos/microsoft/skills/contents/.github/skills\")",
-      "Bash(python3 -c \"import sys,json; data=json.load\\(sys.stdin\\); [print\\(d[''''name''''], d[''''type'''']\\) for d in data[:10]] if isinstance\\(data, list\\) else print\\(data.get\\(''''message'''',''''''''\\)\\)\")"
+      "Bash(python3 -c \"import sys,json; data=json.load\\(sys.stdin\\); [print\\(d[''''name''''], d[''''type'''']\\) for d in data[:10]] if isinstance\\(data, list\\) else print\\(data.get\\(''''message'''',''''''''\\)\\)\")",
+      "mcp__e79ec8fc-fd92-4760-a7ee-ce11d8730c68__generate_diagram",
+      "mcp__e79ec8fc-fd92-4760-a7ee-ce11d8730c68__create_new_file"
     ]
   }
 }
